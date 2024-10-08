@@ -1,15 +1,17 @@
-### bem vindo ao meu perfil
+### bem vindo ao meu perfil 💝
 
+meu nome é cecilia 🐱
 
- ### cecilia/cecilia-valle ###  is a _ special _ repository because its "README.md" (this file) appears on you your GitHub profile.
+- estou estudando no [alura] (https://www.alura.com.br/?srsltid=AfmBOor-BCFyPi2qdg3TBkRnm1OIdUlvRdeHWUHq3ICBro4KZHO5joFT)
+- estou me desenvolvendo na linguagem JavaScript
+- ultilizo esses espaço para meus projetos e etc
 
-  here are some ideas to get you started 
--
- - 👋 Hi, I’m @cecilia-valle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  ### voce pode entrar em contato comigo 📫
+
+mariaceciliaschueltervalle@gmail.com 🥰
+
+@cecilia-valle
+
+![](https://media1.tenor.com/m/by7KNV1fC9EAAAAC/wink-wink-eye-wink.gif)
+
 
