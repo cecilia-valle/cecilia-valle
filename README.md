@@ -8,7 +8,7 @@ meu nome é cecilia 🐱
 
   ### voce pode entrar em contato comigo 📫
 
-mariaceciliaschueltervalle@gmail.com 🥰
+ceciliasvalle@gmail.com 🥰
 
 @cecilia-valle
 
